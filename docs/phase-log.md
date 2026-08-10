@@ -1,7 +1,7 @@
 # ACP Phase Log
 
 This file is the repo-local source of truth for implementation phases. The
-same milestones are mirrored to the `ACP-PoC/` folder inside the NineVigil
+same milestones are mirrored to the `ACP-PoC/` folder inside the Clawdlinux
 Obsidian vault.
 
 ## Phase 0 — Invention Capture

@@ -1,7 +1,7 @@
 # Agent Contract Protocol (ACP) - v0.2 DRAFT
 
 > **Status:** DRAFT - June 4, 2026
-> **Editors:** Shreyansh Sancheti (Clawdlinux / NineVigil)
+> **Editors:** Shreyansh Sancheti (Clawdlinux)
 > **License:** CC BY 4.0 (spec only; see [LICENSE](./LICENSE) for runtime)
 > **Tagline:** Governed execution contracts for autonomous agents.
 
@@ -154,7 +154,7 @@ later documents, this object is an Execution Contract.
     "require_approval": ["a3"],
     "audit_level": "full"
   },
-  "feedback_endpoint": "http://ninevigil.svc/v1/feedback"
+  "feedback_endpoint": "http://acp-feedback.svc.cluster.local/v1/feedback"
 }
 ```
 

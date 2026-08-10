@@ -1,6 +1,6 @@
 # ACP Architecture
 
-ACP shifts execution governance from the agent runtime to the NineVigil
+ACP shifts execution governance from the agent runtime to the Clawdlinux
 control plane. **ACP sits on top of MCP** and other tool sources; see
 [positioning.md](./positioning.md) for the strategic framing and
 [SPEC.md §10](../SPEC.md#10-relationship-to-mcp) for the wire-level details.

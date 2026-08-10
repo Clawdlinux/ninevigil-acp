@@ -24,4 +24,4 @@ there is a persistent background process.
 runtime under BSL 1.1 with 3-year Apache conversion.
 
 **Why:** This maximizes ecosystem adoption for the protocol while protecting
-the optimized runtime until NineVigil has a data and deployment moat.
+the optimized runtime until Clawdlinux has a data and deployment moat.

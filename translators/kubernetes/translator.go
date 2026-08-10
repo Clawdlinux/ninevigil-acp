@@ -19,7 +19,7 @@ import (
 	"github.com/Clawdlinux/agent-native-format/pkg/anf"
 )
 
-const TranslatorVersion = "ninevigil/k8s-translator:0.1.0"
+const TranslatorVersion = "clawdlinux/k8s-translator:0.1.0"
 
 // NamespaceView is the input to the translator: pre-fetched K8s objects
 // for a single namespace. This avoids coupling to client-go directly,
