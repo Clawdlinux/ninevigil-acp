@@ -283,7 +283,7 @@ INITIALIZE_RESPONSE: dict[str, Any] = {
         "prompts": {"listChanged": True},
         "logging": {},
     },
-    "serverInfo": {"name": "ninevigil-mcp-baseline", "version": "0.1.0"},
+    "serverInfo": {"name": "clawdlinux-mcp-baseline", "version": "0.1.0"},
 }
 
 

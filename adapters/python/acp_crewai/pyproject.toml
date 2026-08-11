@@ -9,7 +9,7 @@ description = "CrewAI adapter for ACP (Agent Contract Protocol) manifests."
 readme = "README.md"
 requires-python = ">=3.10"
 license = { text = "Apache-2.0" }
-authors = [{ name = "Clawdlinux / NineVigil" }]
+authors = [{ name = "Clawdlinux" }]
 keywords = ["acp", "agent", "crewai", "mcp", "llm"]
 classifiers = [
     "Development Status :: 3 - Alpha",

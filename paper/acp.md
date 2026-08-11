@@ -1,7 +1,7 @@
 # Agent Native Format: Token-Efficient Execution Contracts for Autonomous Agent Tool Use
 
 **Shreyansh Sancheti**
-*Clawdlinux / NineVigil*
+*Clawdlinux*
 `github.com/Clawdlinux`
 
 ---

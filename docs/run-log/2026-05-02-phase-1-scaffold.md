@@ -2,7 +2,7 @@
 
 ## Objective
 
-Start ACP as a new private Clawdlinux/NineVigil invention repo with a durable
+Start ACP as a new private Clawdlinux invention repo with a durable
 protocol spec, scaffold, benchmark plan, and Obsidian mirror.
 
 ## Inputs
@@ -11,7 +11,7 @@ protocol spec, scaffold, benchmark plan, and Obsidian mirror.
 - GitHub org: `clawdlinux`
 - Repo: `Clawdlinux/agent-native-format`
 - Local path: `/Users/sunny/clawdlinux/agent-contract-protocol`
-- Obsidian vault folder: `ACP-PoC/` inside the NineVigil vault
+- Obsidian vault folder: `ACP-PoC/` inside the Clawdlinux vault
 
 ## Work completed
 

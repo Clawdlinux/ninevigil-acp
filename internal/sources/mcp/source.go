@@ -1,5 +1,5 @@
 /*
-Copyright 2026 Clawdlinux / NineVigil.
+Copyright 2026 Clawdlinux.
 
 Licensed under the Business Source License 1.1.
 See LICENSE in the repository root.
