@@ -80,7 +80,7 @@ Headers provide scope and context. Prefix: `@`
 @scope namespace:payments
 @time 2026-05-03T10:30:00Z
 @ttl 60s
-@translator clawdlinux/k8s-translator:0.3.0
+@translator clawdlinux/k8s-translator:0.1.0
 ```
 
 | Header | Required | Description |
