@@ -9,6 +9,7 @@
 # Go
 /bin/
 /dist/
+/acp-bridge
 *.test
 coverage.out
 
